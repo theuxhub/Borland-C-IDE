@@ -13,5 +13,5 @@ This is a project website for Borland C++ IDE
 
 **Developed By Nitesh Kumar Niranjan**
 
-Contact Me : [https://www.facebook.com/nitesh.kr.niranjan](https://www.facebook.com/nitesh.kr.niranjan)
-Like Our Page [https://www.facebook.com/decoderhub](https://www.facebook.com/decoderhub)
+- Contact Me : [https://www.facebook.com/nitesh.kr.niranjan](https://www.facebook.com/nitesh.kr.niranjan)
+- Like Our Page [https://www.facebook.com/decoderhub](https://www.facebook.com/decoderhub)
