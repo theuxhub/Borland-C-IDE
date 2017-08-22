@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+## Welcome Decoder Hub
 
-You can use the [editor on GitHub](https://github.com/decoderhub/Borland-C-IDE/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This is a project website for Borland C++ IDE
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Features of The IDE :
+1. Material Design UI
+2. Syntax Highlighting
+3. Compiled Executables Can run in Both 32bit and 64Bit Windows OS
 
-### Markdown
+**Get the Setup File with Compilers**
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[Download](https://lookaside.fbsbx.com/file/Borland%20C%2B%2B%20%28New%29.zip?token=AWwyIjnavtgh6WWboBMmfIvA50sqnJmohdDUL43kYW2HikCcKDLxuvLXGPo_kiV3IUmGAMPCnxU0X-eAQXzFdm963ISmTFd-F_eVJUhq--j90zywiChfKSPS-eMbjJ3nqjb4IX4-nBInR6czzATT9qbgQ4kpq68ybMrHZby7uZvtiEePSi4Zozm_28ZB98kjI_qBdFRKnatfK_xY1kpleUg7Yx0wFhscyzK-Gd-IzZLTkeE5TlwtuIN0MwJZi4OxFNBhLpDs9vjVdh94s6bA4qCb)
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/decoderhub/Borland-C-IDE/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+**Developed By Nitesh Kumar Niranjan**
+Contact Me : [https://www.facebook.com/nitesh.kr.niranjan](https://www.facebook.com/nitesh.kr.niranjan)
