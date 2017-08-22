@@ -2,9 +2,9 @@
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
 # SharpDevelop 5.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Borland C++", "Borland C++\Borland C++.csproj", "{FA16B419-B994-43A8-9BC0-7C96547EE228}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Borland C++", "Borland C\Borland C++.csproj", "{FA16B419-B994-43A8-9BC0-7C96547EE228}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Borland C++", "1.0\Borland C++\Borland C++.csproj", "{AF05087C-773A-44F0-A024-BBFC877F3EEE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Borland C++", "1.0\Borland C\Borland C++.csproj", "{AF05087C-773A-44F0-A024-BBFC877F3EEE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
