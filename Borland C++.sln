@@ -1,8 +1,10 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
-# SharpDevelop 4.4
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Borland C++", "Borland C++\Borland C++.csproj", "{E9A617A8-EB7E-4FB7-9408-96A1C84798C6}"
+# SharpDevelop 5.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Borland C++", "Borland C++\Borland C++.csproj", "{FA16B419-B994-43A8-9BC0-7C96547EE228}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Borland C++", "1.0\Borland C++\Borland C++.csproj", "{AF05087C-773A-44F0-A024-BBFC877F3EEE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -10,9 +12,13 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{E9A617A8-EB7E-4FB7-9408-96A1C84798C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{E9A617A8-EB7E-4FB7-9408-96A1C84798C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{E9A617A8-EB7E-4FB7-9408-96A1C84798C6}.Release|Any CPU.Build.0 = Release|Any CPU
-		{E9A617A8-EB7E-4FB7-9408-96A1C84798C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA16B419-B994-43A8-9BC0-7C96547EE228}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA16B419-B994-43A8-9BC0-7C96547EE228}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA16B419-B994-43A8-9BC0-7C96547EE228}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA16B419-B994-43A8-9BC0-7C96547EE228}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF05087C-773A-44F0-A024-BBFC877F3EEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF05087C-773A-44F0-A024-BBFC877F3EEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF05087C-773A-44F0-A024-BBFC877F3EEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF05087C-773A-44F0-A024-BBFC877F3EEE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
