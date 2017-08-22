@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Drawing;
 using System.IO;
@@ -172,7 +172,7 @@ namespace Borland_C__
 			var proc = new Process {
 			    StartInfo = new ProcessStartInfo {
 			        FileName = "bcc32",
-			        Arguments = FileName,
+			        Arguments = '"' + FileName + '"',
 			        WorkingDirectory = Path.GetDirectoryName(Filepath),
 			        UseShellExecute = false,
 			        RedirectStandardOutput = true,
